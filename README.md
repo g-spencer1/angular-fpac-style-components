@@ -1,2 +1,2 @@
-# angular-fpac-styles-components
+# angular-fpac-style-components
 Angular component library for FPAC
