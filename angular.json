@@ -64,6 +64,9 @@
               "-d",
               "projects/components"
             ],
+            "styles": [
+              "projects/components/src/libraries/fsa-style-2.7.3/css/fsa-style.css"
+            ],
             "outputDir": "storybook-static"
           }
         }
