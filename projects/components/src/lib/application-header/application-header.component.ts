@@ -18,7 +18,7 @@ export class ApplicationHeaderComponent {
 
   /** Application acronym */
   @Input()
-  applicationAcronym = "FPAC";
+  applicationAcronym = "SPA";
 
   /** User name */
   @Input()
